@@ -1,2 +1,2 @@
 # Polar Light
-A paraphrase of Aurora
+Polar light is a paraphrase of Aurora
