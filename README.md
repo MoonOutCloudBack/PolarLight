@@ -1,2 +1,2 @@
-# Aurora
-A teaching operating system based on MIPSfpga-Soc
+# Polar Light
+A paraphrase of Aurora
